@@ -1,5 +1,7 @@
 # Flag Quiz
 
+Demo Video: https://youtu.be/E0IxRBQX4mA
+
 This program takes the user through an interactive quiz about countries.
 It is designed it to be run in CLion.
 Before running the program, you must configure your python interpreter in CLion, and install numpy and opencv.
