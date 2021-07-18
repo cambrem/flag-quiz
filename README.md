@@ -1,4 +1,4 @@
-# ReadMe
+# Flag Quiz
 
 This program takes the user through an interactive quiz about countries.
 It is designed it to be run in CLion.
